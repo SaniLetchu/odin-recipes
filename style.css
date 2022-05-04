@@ -1,0 +1,32 @@
+
+
+p, li, h1, h2 {
+    font-size: 22px;
+    color: rgb(26, 25, 25);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.chicken {
+    color: rgb(206, 154, 86);
+}
+
+.burger {
+    color:rgb(83, 41, 1)
+}
+
+.lasagna {
+    color: rgb(224, 153, 0);
+}

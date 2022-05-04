@@ -2,4 +2,4 @@
 First project in The Odin Project course.
 Project is called Recipes.
 
-Project is to learn and showcase basic of HTML.
+Project is to learn and showcase basics of HTML and CSS.
